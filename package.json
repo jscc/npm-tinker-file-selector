@@ -1,0 +1,16 @@
+{
+  "name": "@tinker/file-selector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^8.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
