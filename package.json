@@ -1,7 +1,8 @@
 {
-  "name": "@tinker/file-selector",
+  "name": "@jscc/file-selector",
   "version": "1.0.0",
-  "description": "",
+  "description": "文件选择器，获取目录中指定类型的所有文件",
+  "private": false,
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
@@ -11,6 +12,10 @@
     "test": "mocha"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Tinker",
+  "license": "ISC",
+  "email": "297278806@qq.com",
+  "files": [
+    "index.js"
+  ]
 }
