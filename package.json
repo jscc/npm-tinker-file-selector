@@ -2,7 +2,6 @@
   "name": "@jscc/file-selector",
   "version": "1.0.0",
   "description": "文件选择器，获取目录中指定类型的所有文件",
-  "private": false,
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
